@@ -1,4 +1,4 @@
-#  Hi there, I am Thais Rebouças 
+# ✨ Hi there, I am Thais Rebouças 
 
 ## :rainbow: About Me 
 
