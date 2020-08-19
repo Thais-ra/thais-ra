@@ -15,7 +15,7 @@
 
 ## 📬 Find me and get in touch
 
-- :iphone: Find me on [Telegram](@tah_tu)
+- :iphone: Find me on [Telegram](https://t.me/tah_tu)
 - 📨 thaysreb@gmail.com
 
 
