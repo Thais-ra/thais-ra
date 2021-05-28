@@ -10,7 +10,7 @@
 ## ✨ What I am doing
 
 - 🌱 I’m currently studying [Python with PyLadies DF](https://github.com/pyladiesdf/python-fluent)
-- 🔭 I’m currently working on ITRAC - Information Technology Reserch and Application Center
+- 🔭 I’m currently working on AI.LAB - Artificial Intelligence Laboratory of the University of Brasilia
 - 🤖 I’m currently learning natural language processing
 
 ## 📬 Find me and get in touch
